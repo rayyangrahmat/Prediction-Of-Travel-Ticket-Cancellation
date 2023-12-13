@@ -9,21 +9,33 @@ https://www.kaggle.com/datasets/pkdarabi/classification-of-travel-purpose
 This project designed to avoid ticket cancellation, a significant concern for travel company. The aim was to provide accurate predictions of ticket cancellations and gather valuable insights that can identify crucial factors influencing these cancellations.
 ## Project Highlights
 **Data Understanding and Cleaning**: Thorough examination and cleaning of the dataset to ensure data quality.
+
 **Handling Missing Values**: Employed strategies to handle missing values in the dataset.
+
 **Data Preparation**: Prepared the data for analysis and modelling.
+
 **Data Splitting**: Split the data into training and testing sets.
+
 **Encoding**: Applied encoding techniques for categorical variables.
+
 **One Hot Encoding**: Appliied encoding techniques for categorical variable that have variables more than 2.
+
 **Outlier Analysis**: Identified and addressed outliers in the data.
+
 **Univariate Analysis**: Analyzed individual variables for insights.
+
 **Bivariate Analysis**: Explored relationships between pairs of variables.
+
 **Multicollinearity Analysis**: Examined multicollinearity among features.
+
 **Deep Dive Exploration**: Conducted an in-depth exploration of the dataset.
+
 **Modelling with various Algorithms**:
   XGBoost
   KNN
   Decision Tree
   Random Forest
+
 **Cross Validation**: Implemented cross-validation on the selected model.
 ## Skills Applied
 - **Programming**: Implemented using python for data manipulation and analysis.
