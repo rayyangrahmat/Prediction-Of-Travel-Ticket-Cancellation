@@ -30,7 +30,7 @@ This project designed to avoid ticket cancellation, a significant concern for tr
 - **Statistical Analysis**: Applied statistical methods to extract meaningful patterns from the data.
 - **Machine Learning**: Developed predictive models using machine learning algorithms.
 - **Data Visualization**: Visualized insights using charts and graphs for better comprehension.
-- Deep Learning: Explored deep learning techniques for more complex patterns.
+- **Deep Learning**: Explored deep learning techniques for more complex patterns.
 ## Repository Structure
 - Prediction Of Travel Ticket Cancellation.pptx: Results on portofolio.
 - Rayyan_Ghaus_Rahmat_Progress_Script_Final_Project(1).ipynb: Python source code for the project.
