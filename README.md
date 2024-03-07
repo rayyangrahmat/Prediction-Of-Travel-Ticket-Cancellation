@@ -1,4 +1,4 @@
-# Prediction-Of-Travel-Ticket-Cancellation
+# Travel Ticket Cancellation Classification & EDA
 ## Overview
 This repository contains an end-to-end data science project about "Prediction Of Travel Ticket Cancellation". Predicting travel ticket cancellation is crutial for various reasons:
 - **Company Profitability**: Anticipating cancellations can significantly impact company profit by optimizing income and enchancing the reputation of the travel agency. This involves strategies to increase income, expand services, and build a larger and better travel brand.
